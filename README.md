@@ -160,3 +160,4 @@ The Table tool, and the Spectra Tool, should be fairly well documented.
 
 ## License
 The Ubret Library is licensed under an MIT-style license. See COPYING
+
